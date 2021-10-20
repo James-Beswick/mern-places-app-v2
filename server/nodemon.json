@@ -1,9 +1,0 @@
-{
-  "env": {
-    "DB_USER": "JAMES",
-    "DB_PASSWORD": "Dulceetdecorumestpropatriamori1999",
-    "BD_NAME": "MERN",
-    "GOOGLE_API_KEY": "AIzaSyDCIrdXuWtr4_bWtFq-KRTretU8MbUrpFE",
-    "JWT_KEY": "juIgNl6_9KhbR5-PLshu"
-  }
-}
