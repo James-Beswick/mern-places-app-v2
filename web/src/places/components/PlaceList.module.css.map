@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,UAAU,EAAE,IAAI;EAChB,MAAM,EAAE,SAAS;EACjB,OAAO,EAAE,CAAC;EACV,KAAK,EAAE,GAAG;EACV,SAAS,EAAE,KAAK;CAKjB;;AAVD,AAOE,WAPS,CAOT,EAAE,CAAC;EACD,aAAa,EAAE,IAAI;CACpB",
+    "sources": [
+        "PlaceList.module.scss"
+    ],
+    "names": [],
+    "file": "PlaceList.module.css"
+}

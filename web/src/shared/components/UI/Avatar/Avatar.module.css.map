@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACN,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;CASpB;;AAdD,AAOE,OAPK,CAOL,GAAG,CAAC;EACF,OAAO,EAAE,KAAK;EACd,aAAa,EAAE,GAAG;EAClB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,KAAK;CAClB",
+    "sources": [
+        "Avatar.module.scss"
+    ],
+    "names": [],
+    "file": "Avatar.module.css"
+}

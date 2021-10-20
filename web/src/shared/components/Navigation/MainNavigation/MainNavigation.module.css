@@ -1,0 +1,51 @@
+.menuButton {
+  width: 3rem;
+  height: 3rem;
+  background: transparent;
+  border: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin-right: 2rem;
+  cursor: pointer;
+}
+
+.menuButton span {
+  display: block;
+  width: 3rem;
+  height: 2.5px;
+  background-color: white;
+}
+
+.title {
+  color: white;
+}
+
+.title a {
+  text-decoration: none;
+  color: white;
+}
+
+.navHeader {
+  display: none;
+}
+
+.navDrawer {
+  height: 100%;
+}
+
+@media (min-width: 768px) {
+  .menuButton {
+    display: none;
+  }
+  .navHeader {
+    display: block;
+  }
+}
+/*# sourceMappingURL=MainNavigation.module.css.map */

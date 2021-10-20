@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,QAAQ,EAAE,KAAK;EACf,IAAI,EAAE,CAAC;EACP,GAAG,EAAE,CAAC;EACN,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,GAAG;EACV,UAAU,EAAE,KAAK;EACjB,UAAU,EAAE,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,mBAAmB;CAC1C",
+    "sources": [
+        "SideDrawer.module.scss"
+    ],
+    "names": [],
+    "file": "SideDrawer.module.css"
+}
